@@ -47,6 +47,5 @@ The app then:
 
 ✨ Author
 Gourav Kumar Chatterjee
-B.Tech (IT)
-LinkedIn:-https://www.linkedin.com/in/gourav-chatterjee-7a1484260/
+LinkedIn:- https://www.linkedin.com/in/gourav-chatterjee-7a1484260/
 
